@@ -3,13 +3,13 @@ import React from 'react';
 
 const projects = [
   {
-    title: 'SunsetSunriseTimes',
-    imageUrl: '/src/assets/kwise.jpeg',
+    title: 'Sunset Sunrise Times',
+    imageUrl: '/src/assets/project1.jpeg',
     link: 'https://github.com/garciajv86/SunsetSunriseTimes',
   },
   {
-    title: 'Project 2',
-    imageUrl: '/src/assets/kwise.jpeg',
+    title: 'Nifty Thrifty',
+    imageUrl: '/src/assets/project2.jpeg',
     link: 'https://github.com/IvySMac/Project-2',
   },
   // Add more projects...
