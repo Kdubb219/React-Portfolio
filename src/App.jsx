@@ -22,8 +22,8 @@ function App() {
       <div className="content">
         {activeSection ===0 && <About/>}
         {activeSection ===1 && <Portfolio/>}
-        {activeSection ===2 && <Resume/>}
-        {activeSection ===3 && <Contact/>}
+        {activeSection ===2 && <Contact/>}
+        {activeSection ===3 && <Resume/>}
       </div>
 
       <Footer/>
